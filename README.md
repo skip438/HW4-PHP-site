@@ -27,6 +27,7 @@ Keep track of your time.  If you find yourself still working on it after 8 hours
 
 _Assignment:_
 For this assignment, you'll be integrating a mysql database into a social networking site. You'll be using a database to implement persistent relationships between the members of your network. You'll also be using sessions and cookies to give users a smooth experience while navigating the network.
+![img](https://raw.githubusercontent.com/seis752/HW4-PHP-site/master/img/hw4flow.png "flow")
  
 
 You should ideally get this up and running on your domain that you registered previously.  For the database creation scripts, it would be extremely helpful if you have the choice of naming your db to name it seislloyd… if your name is Lloyd.  If it is Ted you would call it seisted.  If you have a classmate with your first name then you could go with your UST username, or FNameLIniital.  It is important that I can keep them separate running throughout the semester.
