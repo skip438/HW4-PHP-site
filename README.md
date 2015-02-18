@@ -35,6 +35,7 @@ You should ideally get this up and running on your domain that you registered pr
 For delivery put all your files in a folder called “HW3”.  I will extract this into a folder with your name in it.  Within the folder should be all the files that are needed to create the database, and run the site.
 
 For this assignment, you need to implement these two key features in the following ways:
+
 1. Using sessions to manage permissions
  - If user is not logged in, then redirect them to the Login Page.
  - The index of your website will be a login page (think facebook) on which users can enter their username and password to login. Logging in will start a new session and take users to their profile. 
@@ -42,7 +43,7 @@ For this assignment, you need to implement these two key features in the followi
  - Posting a message on a profile requires someone to be logged in- a message will now display when it was posted and who posted it.
 2. Using mysql to store data about the users of the network
  - You need to design a database to store network information. There should be at least three tables 
-***** Further Info Below in the MySQL section ******:
+*****Further Info Below in the MySQL section******:
    - A user information table: user ids, passwords, profile info.
    - A messages table for storing posted messages. In addition to the message, you need to keep track of who posted the message and when it was posted.
    - A connection table that stores friendship relationships.
@@ -58,6 +59,7 @@ For this assignment, you need to implement these two key features in the followi
 
 ##MySQL
 I encourage you to get familiar with the MySql interface, and build the tables using the PhpMyAdmin tool that likely came with your course.  If you would like to watch me create the tables here is a video walkthrough here :  
+
 1. [On Dreamhost](http://www.youtube.com/watch?v=5R1ctzIFP-Q)… super slow for some reason
 2. [or with a host with CPanel interface.](http://www.youtube.com/watch?v=7sAmyUVbUsg)
 
