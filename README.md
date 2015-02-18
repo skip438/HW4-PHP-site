@@ -1,6 +1,7 @@
 # HW4-PHP-site
 
-##SEIS752 – Advanced Web Application Development   [Spring 2014]
+##SEIS752 – Advanced Web Application Development   
+####Spring 2015
 ###Professor 	Lloyd Cledwyn
 ###HW #4:  	PHP Up and Running
 ###Due:		To be discussed Feb 26th
