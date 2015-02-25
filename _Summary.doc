@@ -1,0 +1,10 @@
+The website is briansust.com, hosted by BlueHost.com
+The MYSQL database is briansus_seisbrian (or maybe just seisbrian).  The PhpMyAdmim tool prefixes the db with "brianus_".
+The database portion of the assignment is complete.  All three tables were created, and new columns identified and added.
+The "users" and "relationships" tables were populated, 8 records and 4 records respectively.
+
+Cost/speed/quality of php and mysql analysis:
+
+First, I've not completed the PHP portion of this assignment.
+I did not have any issues with any of these three attributes of either tool (php nor mysql).
+The assumption is, both of these tools sdhould "work" and, with this limited assignment, they worked for me.  I did not notice slow response.
